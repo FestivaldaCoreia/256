@@ -4,8 +4,8 @@ html, body {
   padding: 0;
  
   background: #96bce8;
-  color: #fff;
-   font-family: "Clear Sans", "Helvetica Neue", Arial, sans-serif;
+  color: #4a5d73;
+  font-family: "Clear Sans", "Helvetica Neue", Arial, sans-serif;
   font-size: 18px; }
 
 
@@ -64,7 +64,6 @@ h1.title {
   font-weight: bold;
   border-radius: 3px;
   color: white;
-  margin-top: 8px;
   text-align: center; }
   .score-container:after, .best-container:after {
     position: absolute;
@@ -531,6 +530,7 @@ hr {
 
 .game-intro {
   width: 190px;
+  /*width: 190px;*/
   background: rgba(0, 0, 0, 0.5);
   text-align: center;
   margin-bottom: 0; }
